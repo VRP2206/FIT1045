@@ -1,0 +1,17 @@
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\simple_music_player.exe
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\simple_music_player.deps.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\simple_music_player.runtimeconfig.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\simple_music_player.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\simple_music_player.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\bin\Debug\net9.0\SplashKitSDK.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.AssemblyInfoInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.AssemblyInfo.cs
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_m.3EA5A766.Up2Date
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\refint\simple_music_player.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\simple_music_player.genruntimeconfig.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_music_player\obj\Debug\net9.0\ref\simple_music_player.dll

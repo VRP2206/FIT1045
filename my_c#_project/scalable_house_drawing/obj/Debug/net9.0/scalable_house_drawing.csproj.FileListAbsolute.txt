@@ -1,0 +1,17 @@
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\scalable_house_drawing.exe
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\scalable_house_drawing.deps.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\scalable_house_drawing.runtimeconfig.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\scalable_house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\scalable_house_drawing.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\bin\Debug\net9.0\SplashKitSDK.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.AssemblyInfoInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.AssemblyInfo.cs
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable.33E47ABC.Up2Date
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\refint\scalable_house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\scalable_house_drawing.genruntimeconfig.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\scalable_house_drawing\obj\Debug\net9.0\ref\scalable_house_drawing.dll

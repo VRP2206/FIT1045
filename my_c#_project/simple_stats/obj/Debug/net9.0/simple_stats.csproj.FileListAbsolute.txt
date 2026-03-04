@@ -1,0 +1,17 @@
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\simple_stats.exe
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\simple_stats.deps.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\simple_stats.runtimeconfig.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\simple_stats.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\simple_stats.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\bin\Debug\net9.0\SplashKitSDK.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.AssemblyInfoInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.AssemblyInfo.cs
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_s.A366AB1A.Up2Date
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\refint\simple_stats.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\simple_stats.genruntimeconfig.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\simple_stats\obj\Debug\net9.0\ref\simple_stats.dll

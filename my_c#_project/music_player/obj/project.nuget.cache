@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m2Iuw391RT4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vedant\\Desktop\\mycode\\my_c#_project\\music_player\\music_player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vedant\\.nuget\\packages\\splashkit\\1.2.12\\splashkit.1.2.12.nupkg.sha512"
+  ],
+  "logs": []
+}

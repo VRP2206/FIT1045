@@ -1,0 +1,17 @@
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\house_drawing.exe
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\house_drawing.deps.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\house_drawing.runtimeconfig.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\house_drawing.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\bin\Debug\net9.0\SplashKitSDK.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.AssemblyInfoInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.AssemblyInfo.cs
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_dr.37077921.Up2Date
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\refint\house_drawing.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\house_drawing.genruntimeconfig.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\house_drawing\obj\Debug\net9.0\ref\house_drawing.dll

@@ -1,0 +1,17 @@
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\saving_targets_calculator.exe
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\saving_targets_calculator.deps.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\saving_targets_calculator.runtimeconfig.json
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\saving_targets_calculator.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\saving_targets_calculator.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\bin\Debug\net9.0\SplashKitSDK.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.csproj.AssemblyReference.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.AssemblyInfoInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.AssemblyInfo.cs
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_t.D4D5E496.Up2Date
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\refint\saving_targets_calculator.dll
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.pdb
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\saving_targets_calculator.genruntimeconfig.cache
+C:\Users\Vedant\Desktop\mycode\my_c#_project\saving_targets_calculator\obj\Debug\net9.0\ref\saving_targets_calculator.dll
