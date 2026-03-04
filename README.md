@@ -238,4 +238,4 @@ Many projects were developed as part of FIT1045 coursework, demonstrating:
 
 ---
 
-**Built with for learning and exploration**
+**Built with love for learning and exploration**
