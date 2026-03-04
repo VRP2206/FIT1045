@@ -14,6 +14,14 @@ mycode/
 ├── C Task/                   # Course assignments (PDFs)
 └── P Task/                   # Project documentation (PDFs)
 ```
+
+### Branch explantion
+```
+- main : Contains the complete portfolio with all projects and documentation
+- unrefine_ver : Contains all the files including the venv, pycache, etc...
+```
+
+
 ## Link to website
 
 ### Project site
