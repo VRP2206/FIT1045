@@ -135,7 +135,7 @@ mycode/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/VRP2206/FIT1045.git
    cd mycode
    ```
 
