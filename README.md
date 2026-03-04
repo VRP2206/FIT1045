@@ -209,9 +209,13 @@ This is a personal learning repository, but feedback and suggestions are welcome
 3. Make your changes
 4. Submit a pull request
 
+## Disclamer
+
+Most of the readme file has been AI generate after the unit concluded, it was to ease the tidious work of creating all those README file.
+
 ## License
 
-This project is for educational purposes. Individual components may have different licensing requirements.
+This project is for educational purposes. Individual components may have different licensing requirements. 
 
 ## Academic Context
 
