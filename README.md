@@ -10,9 +10,14 @@ mycode/
 ├── my_c#_project/            # C# applications with SplashKit
 ├── my_c++_project/           # C++ console and graphics applications  
 ├── my_python_code/           # Python projects and utilities
+├── portfolio.pdf/            # PDF obtain after submitting the portfolio
 ├── C Task/                   # Course assignments (PDFs)
 └── P Task/                   # Project documentation (PDFs)
 ```
+## Link to website
+
+https://sites.google.com/student.monash.edu/cpa/hd-project
+
 
 ## Featured Projects
 
