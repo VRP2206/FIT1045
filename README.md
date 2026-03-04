@@ -215,8 +215,8 @@ Most of the readme file has been AI generate after the unit concluded, it was to
 
 ## Result
 
-I was able to achive an HD.
-If you are aiming for a simillar grade, you need to aim higher than me as the unit difficulty may have increse from when I did it.
+I was able to achive an HD. <br>
+If you are aiming for a simillar grade, you need to aim higher than me as the unit difficulty may have increse from when I did it.<br>
 You also need to consider the level of your cohort; If there are very good student in it, the requirement to get HD may increase due to their project being so good. 
 
 ## License
