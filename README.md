@@ -16,7 +16,7 @@ mycode/
 ```
 ## Link to website
 
-### Project sites
+### Project site
 https://sites.google.com/student.monash.edu/cpa/hd-project
 
 ### Resource sites
