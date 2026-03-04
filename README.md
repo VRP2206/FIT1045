@@ -211,17 +211,22 @@ This is a personal learning repository, but feedback and suggestions are welcome
 
 ## Disclamer
 
+I (VRP2206) is not responsible in any way of how you use this repository. You agreed to this if you ever copy or look at the file in this repository.<br><br>
+This repository is a crude copy of my (VRP2206) FIT1045 work and cannot be use to alter my grade in any way.<br><br>
+
 Most of the readme file has been AI generate after the unit concluded, it was to ease the tidious work of creating all those README file.
 
 ## Result
 
-I was able to achive an HD. <br>
-If you are aiming for a simillar grade, you need to aim higher than me as the unit difficulty may have increse from when I did it.<br>
+I was able to achive an HD. <br><br>
+If you are aiming for a simillar grade, you need to aim higher than me as the unit difficulty may have increse from when I did it.<br><br>
 You also need to consider the level of your cohort; If there are very good student in it, the requirement to get HD may increase due to their project being so good. 
 
 ## License
 
-This project is for educational purposes. Individual components may have different licensing requirements. 
+This project is for educational purposes. Individual components may have different licensing requirements. <br><br>
+This repo is for personal use only. It should only be use to help the user learn and understand what is expected of Monash FIT1045 unit. <br><br>
+This repository is not intended for commercial use or distribution or submitting it as your work. <br><br>
 
 ## Academic Context
 
