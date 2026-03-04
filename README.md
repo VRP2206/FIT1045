@@ -238,5 +238,5 @@ Many projects were developed as part of FIT1045 coursework, demonstrating:
 
 ---
 
-**Built with love for learning and exploration**
+**Built with love for learning and exploration**<br>
 **If you need help contact me on rahulpemsing@gmail.com**
