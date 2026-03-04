@@ -1,8 +1,8 @@
-# 🚀 Personal Programming Portfolio
+# MONASH FIT1045 Programming Portfolio
 
 A comprehensive collection of programming projects spanning multiple languages and domains, including AI applications, game development, algorithms, and system utilities.
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 mycode/
