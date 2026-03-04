@@ -1,0 +1,212 @@
+{
+  "player": {
+    "health": 9.900000000000002,
+    "max_health": 15,
+    "attack": 2,
+    "defense": 0.15,
+    "agility": 0.0,
+    "mana": 0,
+    "coins": 3,
+    "room": 5,
+    "class": "tank"
+  },
+  "allies": [
+    {
+      "name": "Knight",
+      "health": 15,
+      "attack": 2,
+      "defense": 0.1,
+      "max_health": 15
+    }
+  ],
+  "unique_perks_obtained": [],
+  "enemies": [
+    {
+      "name": "Goblin",
+      "health": 5,
+      "attack": 1,
+      "coin_min": 1,
+      "coin_max": 5
+    },
+    {
+      "name": "Orc",
+      "health": 8,
+      "attack": 2,
+      "coin_min": 7,
+      "coin_max": 10
+    },
+    {
+      "name": "Skeleton",
+      "health": 6,
+      "attack": 1,
+      "coin_min": 2,
+      "coin_max": 6
+    },
+    {
+      "name": "Wolf",
+      "health": 4,
+      "attack": 2,
+      "coin_min": 3,
+      "coin_max": 6
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Troll King",
+      "health": 25,
+      "attack": 4,
+      "coin_min": 10,
+      "coin_max": 13
+    },
+    {
+      "name": "Dragon",
+      "health": 40,
+      "attack": 6,
+      "coin_min": 17,
+      "coin_max": 20
+    },
+    {
+      "name": "Lich",
+      "health": 35,
+      "attack": 5,
+      "coin_min": 14,
+      "coin_max": 16
+    }
+  ],
+  "superbosses": [
+    {
+      "name": "Ancient Titan",
+      "health": 100,
+      "attack": 12,
+      "coin_min": 50,
+      "coin_max": 75
+    },
+    {
+      "name": "Void Lord",
+      "health": 150,
+      "attack": 15,
+      "coin_min": 75,
+      "coin_max": 100
+    }
+  ],
+  "allies_pool": [
+    {
+      "name": "Knight",
+      "health": 15,
+      "attack": 2,
+      "defense": 0.1
+    },
+    {
+      "name": "Archer",
+      "health": 10,
+      "attack": 3,
+      "agility": 0.2
+    },
+    {
+      "name": "Healer",
+      "health": 8,
+      "attack": 1,
+      "healing": 2
+    },
+    {
+      "name": "Warrior",
+      "health": 20,
+      "attack": 2,
+      "defense": 0.05
+    }
+  ],
+  "common_perks": [
+    {
+      "name": "Health Boost",
+      "type": "health",
+      "value": 5,
+      "rarity": "common"
+    },
+    {
+      "name": "Attack Up",
+      "type": "attack",
+      "value": 1,
+      "rarity": "common"
+    },
+    {
+      "name": "Defense Up",
+      "type": "defense",
+      "value": 0.1,
+      "rarity": "common"
+    },
+    {
+      "name": "Agility Up",
+      "type": "agility",
+      "value": 0.05,
+      "rarity": "common"
+    }
+  ],
+  "rare_perks": [
+    {
+      "name": "Strong Attack",
+      "type": "attack",
+      "value": 2,
+      "rarity": "rare"
+    },
+    {
+      "name": "Shield Master",
+      "type": "defense",
+      "value": 0.15,
+      "rarity": "rare"
+    },
+    {
+      "name": "Swift Dodge",
+      "type": "agility",
+      "value": 0.1,
+      "rarity": "rare"
+    },
+    {
+      "name": "Mana Boost",
+      "type": "mana",
+      "value": 3,
+      "rarity": "rare"
+    }
+  ],
+  "unique_perks": [
+    {
+      "name": "Titan's Strength",
+      "type": "attack",
+      "value": 5,
+      "rarity": "unique"
+    },
+    {
+      "name": "Void Shield",
+      "type": "defense",
+      "value": 0.3,
+      "rarity": "unique"
+    },
+    {
+      "name": "Time Warp",
+      "type": "agility",
+      "value": 0.25,
+      "rarity": "unique"
+    }
+  ],
+  "riddles": [
+    {
+      "question": "What has keys but no locks, space but no room, you can enter but not go inside?",
+      "answer": "keyboard"
+    },
+    {
+      "question": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+      "answer": "fire"
+    },
+    {
+      "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+      "answer": "m"
+    },
+    {
+      "question": "What has hands but cannot clap?",
+      "answer": "clock"
+    },
+    {
+      "question": "What gets wet while drying?",
+      "answer": "towel"
+    }
+  ]
+}

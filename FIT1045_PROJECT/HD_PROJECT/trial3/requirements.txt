@@ -1,0 +1,7 @@
+streamlit
+ollama
+psutil
+plotly
+requests
+PyPDF2
+Pillow

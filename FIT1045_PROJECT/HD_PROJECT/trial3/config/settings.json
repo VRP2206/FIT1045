@@ -1,0 +1,14 @@
+{
+  "default_temperature": 0.7,
+  "default_max_tokens": 150,
+  "use_gpu": true,
+  "gpu_memory_fraction": 0.8,
+  "preferred_models": {
+    "chat": "qwen3:30b",
+    "coding": "deepseek-coder",
+    "small_tasks": "gemma3:4b"
+  },
+  "ui_theme": "dark",
+  "auto_load_models": true,
+  "plugin_auto_discovery": true
+}

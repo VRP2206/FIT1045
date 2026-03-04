@@ -1,0 +1,95 @@
+{
+  "player": {
+    "health": 6,
+    "max_health": 10,
+    "attack": 1,
+    "defense": 0.1,
+    "room": 2,
+    "coins": 5
+  },
+  "enemies": [
+    {
+      "name": "Goblin",
+      "health": 5,
+      "attack": 1,
+      "coin_min": 1,
+      "coin_max": 5
+    },
+    {
+      "name": "Orc",
+      "health": 8,
+      "attack": 2,
+      "coin_min": 7,
+      "coin_max": 10
+    },
+    {
+      "name": "Skeleton",
+      "health": 6,
+      "attack": 1,
+      "coin_min": 2,
+      "coin_max": 6
+    },
+    {
+      "name": "Wolf",
+      "health": 4,
+      "attack": 2,
+      "coin_min": 3,
+      "coin_max": 6
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Troll King",
+      "health": 25,
+      "attack": 4,
+      "coin_min": 10,
+      "coin_max": 13
+    },
+    {
+      "name": "Dragon",
+      "health": 40,
+      "attack": 6,
+      "coin_min": 17,
+      "coin_max": 20
+    },
+    {
+      "name": "Lich",
+      "health": 35,
+      "attack": 5,
+      "coin_min": 14,
+      "coin_max": 16
+    }
+  ],
+  "perks": [
+    {
+      "name": "Health Boost",
+      "type": "health",
+      "value": 5
+    },
+    {
+      "name": "Attack Up",
+      "type": "attack",
+      "value": 1
+    },
+    {
+      "name": "Defense Up",
+      "type": "defense",
+      "value": 0.1
+    },
+    {
+      "name": "Max Health Up",
+      "type": "max_health",
+      "value": 3
+    },
+    {
+      "name": "Strong Attack",
+      "type": "attack",
+      "value": 2
+    },
+    {
+      "name": "Shield",
+      "type": "defense",
+      "value": 0.15
+    }
+  ]
+}
