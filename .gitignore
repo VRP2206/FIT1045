@@ -1,0 +1,51 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+myeasylog.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+
+# C# / .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Personal data
+memory.json
+
+# Environment variables
+.env
+.env.local
