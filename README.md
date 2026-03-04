@@ -200,7 +200,7 @@ Each major project includes its own README with:
 - API documentation
 - Architecture overview
 
-## Contributing
+## Contributing(only in some rare ocassion, this repo will most likey stay as is)
 
 This is a personal learning repository, but feedback and suggestions are welcome:
 
@@ -212,6 +212,12 @@ This is a personal learning repository, but feedback and suggestions are welcome
 ## Disclamer
 
 Most of the readme file has been AI generate after the unit concluded, it was to ease the tidious work of creating all those README file.
+
+## Result
+
+I was able to achive an HD.
+If you are aiming for a simillar grade, you need to aim higher than me as the unit difficulty may have increse from when I did it.
+You also need to consider the level of your cohort; If there are very good student in it, the requirement to get HD may increase due to their project being so good. 
 
 ## License
 
