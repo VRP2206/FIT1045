@@ -20,7 +20,7 @@ mycode/
 https://sites.google.com/student.monash.edu/cpa/hd-project
 
 ### Resource sites
-https://programmers.guide/
+https://programmers.guide/ <br>
 https://docs.python.org/3/tutorial/index.html
 
 ## Featured Projects
