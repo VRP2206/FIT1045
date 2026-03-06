@@ -5,7 +5,7 @@ A comprehensive collection of programming projects spanning multiple languages a
 ##  Repository Structure
 
 ```
-mycode/
+FIT1045/
 ├── FIT1045_PROJECT/          # University coursework projects
 ├── my_c#_project/            # C# applications with SplashKit
 ├── my_c++_project/           # C++ console and graphics applications  
